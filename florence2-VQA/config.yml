@@ -1,5 +1,5 @@
 config:
-    AZURE_SUBSCRIPTION_ID: "510c796c-5c2a-4dff-a367-70e26f4e8335" # Please modify to your subscription
+    AZURE_SUBSCRIPTION_ID: "" # Please modify to your subscription
     AZURE_RESOURCE_GROUP: "gf-rg-main-sweden" # Please modify to your Azure resource group
     AZURE_WORKSPACE: "gf-aml-main-swe-vanilla" # Please modify to your Azure workspace
     AZURE_DATA_NAME: "gf-Florence2" # Please modify to your AzureML data name
